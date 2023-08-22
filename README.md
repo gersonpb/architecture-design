@@ -2,7 +2,8 @@
   <p align="center">
     <img src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg"  width="150" />
   </p>  
-  <h1 align="center">🚀 Microserviço: Estudo das técnologias DDD, Clean Architecture e Design, Mokito, JPA, Spring Boot, Gradle</h1>
+  <h1 align="center">🚀 Microserviço: Estudo das técnologias DDD, Clean Architecture e Design, Mokito, JPA, Spring Boot, Gradle
+    Docker, Rabit-MQ</h1>
   <p align="center">
     Microserviço referente ao backend da Administração do Catálogo de Vídeos<br />
     Utilizando Clean Architecture, DDD, TDD e as boas práticas atuais de mercado
