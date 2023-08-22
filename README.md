@@ -20,7 +20,7 @@
 
 1. Clonar o repositório:
 ```sh
-git clone https://github.com/codeedu/micro-admin-videos-java.git
+git clone https://github.com/gersonpb/architecture-design.git
 ```
 
 2. Subir o banco de dados MySQL com Docker:
